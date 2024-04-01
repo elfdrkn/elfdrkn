@@ -6,4 +6,4 @@
 - 📫 How to reach me: linkedin.com/in/elif-durukan-4a4293188/
 - 😄 Pronouns: Elif
 - ⚡ Fun fact: online games 
--->
+
