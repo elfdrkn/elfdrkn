@@ -1,11 +1,23 @@
-## Hi, I'm Elif 👋👩🏾‍💻
+[![MasterHead](https://www.kodcuherif.com/images/2015/05/Bayandan-Yazilimci-Olur-mu.jpg)
+<h1 align="center">Hi 👋, I'm Elif</h1>
+<h3 align="center">A passionate about Python from Turkey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elfdrkn&label=Profile%20views&color=0e75b6&style=flat" alt="elfdrkn" /> </p>
 
+- 🔭 I’m currently working on **RFID Labels**
 
+- 🌱 I’m currently learning **Python**
 
-- 🔭 I’m currently working on RFID department
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: linkedin.com/in/elif-durukan-4a4293188/
-- 😄 Pronouns: Elif
-- ⚡ Fun fact: online games 
+- 🤝 I’m looking for help with **programming**
 
+- 📫 How to reach me **drkn.elif@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/elif durukan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif durukan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elfdrkn&show_icons=true&locale=en" alt="elfdrkn" /></p>
