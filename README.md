@@ -12,7 +12,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/elif-durukan" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="elifdurukan" height="30" width="30" /></a>
 
-<img align="right" src="<iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>" width="280" height="230"  />
+<img align="right" src="media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473vqguldm0fporx2gi8efjkoyu7q2ncwzocpsoizd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" height="230"  />
+
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
