@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif?cid=ecf05e470n0ksktqu8x2cl3iw04owxn2rntyfa2l1nxzpfdu&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" height="230"  />
+<img align="right" src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif?cid=ecf05e470n0ksktqu8x2cl3iw04owxn2rntyfa2l1nxzpfdu&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="280" height="230"  />
 
 <h2>☄️ Hey! I'm Elif.</h2>
 
